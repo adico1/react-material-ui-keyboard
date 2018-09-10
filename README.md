@@ -1,5 +1,8 @@
 # react-material-ui-keyboard
 
+Ready for react16 & material-ui 1.4
+
+
 Virtual keyboard for TextFeild when needed.
 
 [![npm version](https://badge.fury.io/js/react-material-ui-keyboard.svg)](https://badge.fury.io/js/react-material-ui-keyboard)
