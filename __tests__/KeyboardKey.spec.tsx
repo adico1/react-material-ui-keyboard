@@ -1,13 +1,13 @@
 import { KeyboardKey, KeyboardKeyProps, KeyboardKeyPressHandler } from './../src/KeyboardKey';
 import * as React from 'react';
 import FlatButton from 'material-ui/FlatButton';
-import Backspace from 'material-ui/svg-icons/content/backspace';
+import Backspace from '@material-ui/icons/Backspace';
 import Enter from 'material-ui/svg-icons/hardware/keyboard-return';
 import Escape from 'material-ui/svg-icons/action/exit-to-app';
 import Keyboard from 'material-ui/svg-icons/hardware/keyboard';
 import CapsLock from 'material-ui/svg-icons/hardware/keyboard-capslock';
 import Spacebar from 'material-ui/svg-icons/editor/space-bar';
-import Warning from 'material-ui/svg-icons/alert/warning';
+import Warning from '@material-ui/icons/Warning';
 import { shallow, ShallowWrapper } from 'enzyme';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 

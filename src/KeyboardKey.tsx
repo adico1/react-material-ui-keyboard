@@ -2,13 +2,13 @@ import * as React from 'react';
 import * as PropTypes from 'prop-types';
 import bind from 'bind-decorator';
 import FlatButton from '@material-ui/core/Button';
-import Backspace from '@material-ui/icons/backspace';
+import Backspace from '@material-ui/icons/Backspace';
 import Enter from '@material-ui/icons/KeyboardReturn';
 import Escape from '@material-ui/icons/ExitToApp';
-import Keyboard from '@material-ui/icons/keyboard';
+import Keyboard from '@material-ui/icons/Keyboard';
 import CapsLock from '@material-ui/icons/KeyboardCapslock';
 import Spacebar from '@material-ui/icons/SpaceBar';
-import Warning from '@material-ui/icons/warning';
+import Warning from '@material-ui/icons/Warning';
 import { MuiTheme } from 'material-ui/styles';
 
 export type KeyboardKeyPressHandler = (key: string) => void;
